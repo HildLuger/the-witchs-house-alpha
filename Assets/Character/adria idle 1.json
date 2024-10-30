@@ -1,0 +1,2307 @@
+﻿{
+    "adria idle 1": {
+        "Version": "1.20.1822.1",
+        "Scene": {
+            "Name": true,
+            "SupportShaderSelect": true
+        },
+        "Export Directory": "C:/Users/marin/OneDrive/Desktop/game unity",
+        "Object": {
+            "adria idle 1": {
+                "Generation": "RL_CharacterCreator_Base_Game_G1_One_UV",
+                "Physics": {
+                    "root": {
+                        "Collision Shapes": {
+                            "pelvis": {
+                                "Capsule": {
+                                    "Bone Active": true,
+                                    "Bound Type": "Capsule",
+                                    "Bound Axis": "Y",
+                                    "Margin": 2.0,
+                                    "Friction": 0.05000000074505806,
+                                    "Elasticity": 0.5,
+                                    "WorldTranslate": [
+                                        -5.980545520782471,
+                                        0.836258590221405,
+                                        92.22754669189453
+                                    ],
+                                    "WorldRotationQ": [
+                                        0.802252471446991,
+                                        0.05111992359161377,
+                                        -0.05830258131027222,
+                                        0.5919278860092163
+                                    ],
+                                    "WorldScale": [
+                                        1.0,
+                                        1.0000001192092896,
+                                        1.0000001192092896
+                                    ],
+                                    "Radius": 9.339056968688965,
+                                    "Capsule Length": 22.125532150268556
+                                },
+                                "Capsule(0)": {
+                                    "Bone Active": true,
+                                    "Bound Type": "Capsule",
+                                    "Bound Axis": "Y",
+                                    "Margin": 2.0,
+                                    "Friction": 0.05000000074505806,
+                                    "Elasticity": 0.5,
+                                    "WorldTranslate": [
+                                        4.892390251159668,
+                                        0.9200066924095154,
+                                        94.00646209716797
+                                    ],
+                                    "WorldRotationQ": [
+                                        0.7925102710723877,
+                                        -0.09333983063697815,
+                                        0.15866349637508393,
+                                        0.5814130306243897
+                                    ],
+                                    "WorldScale": [
+                                        1.0,
+                                        1.0,
+                                        1.0000001192092896
+                                    ],
+                                    "Radius": 9.339056968688965,
+                                    "Capsule Length": 21.50325584411621
+                                }
+                            },
+                            "thigh_l": {
+                                "Capsule": {
+                                    "Bone Active": true,
+                                    "Bound Type": "Capsule",
+                                    "Bound Axis": "Y",
+                                    "Margin": 0.800000011920929,
+                                    "Friction": 0.05000000074505806,
+                                    "Elasticity": 0.5,
+                                    "WorldTranslate": [
+                                        7.555398464202881,
+                                        -0.5643755793571472,
+                                        67.49906921386719
+                                    ],
+                                    "WorldRotationQ": [
+                                        -0.03970187529921532,
+                                        0.7352812886238098,
+                                        -0.6749802231788635,
+                                        -0.04676416888833046
+                                    ],
+                                    "WorldScale": [
+                                        1.0000001192092896,
+                                        0.9999997615814209,
+                                        0.9999998807907105
+                                    ],
+                                    "Radius": 7.741215705871582,
+                                    "Capsule Length": 33.47919464111328
+                                }
+                            },
+                            "calf_l": {
+                                "Capsule": {
+                                    "Bone Active": true,
+                                    "Bound Type": "Capsule",
+                                    "Bound Axis": "Y",
+                                    "Margin": 0.800000011920929,
+                                    "Friction": 0.05000000074505806,
+                                    "Elasticity": 0.5,
+                                    "WorldTranslate": [
+                                        4.814327239990234,
+                                        4.420445442199707,
+                                        24.83466148376465
+                                    ],
+                                    "WorldRotationQ": [
+                                        -0.001856726361438632,
+                                        0.7437192797660828,
+                                        -0.6664705276489258,
+                                        -0.051915671676397327
+                                    ],
+                                    "WorldScale": [
+                                        0.9999992847442627,
+                                        0.9999992251396179,
+                                        0.9999997615814209
+                                    ],
+                                    "Radius": 5.811297416687012,
+                                    "Capsule Length": 33.62028503417969
+                                }
+                            },
+                            "thigh_r": {
+                                "Capsule": {
+                                    "Bone Active": true,
+                                    "Bound Type": "Capsule",
+                                    "Bound Axis": "Y",
+                                    "Margin": 0.800000011920929,
+                                    "Friction": 0.05000000074505806,
+                                    "Elasticity": 0.5,
+                                    "WorldTranslate": [
+                                        -7.565933704376221,
+                                        -4.246191501617432,
+                                        64.0306625366211
+                                    ],
+                                    "WorldRotationQ": [
+                                        0.018111756071448327,
+                                        -0.6789137125015259,
+                                        0.7315948009490967,
+                                        -0.05930645018815994
+                                    ],
+                                    "WorldScale": [
+                                        0.9999998211860657,
+                                        0.9999997019767761,
+                                        0.9999997615814209
+                                    ],
+                                    "Radius": 7.777103900909424,
+                                    "Capsule Length": 38.07893753051758
+                                }
+                            },
+                            "calf_r": {
+                                "Capsule": {
+                                    "Bone Active": true,
+                                    "Bound Type": "Capsule",
+                                    "Bound Axis": "Y",
+                                    "Margin": 0.800000011920929,
+                                    "Friction": 0.05000000074505806,
+                                    "Elasticity": 0.5,
+                                    "WorldTranslate": [
+                                        -8.747700691223145,
+                                        1.5102790594100953,
+                                        24.810670852661134
+                                    ],
+                                    "WorldRotationQ": [
+                                        -0.04613099992275238,
+                                        0.8024438619613648,
+                                        -0.594388484954834,
+                                        0.025653136894106866
+                                    ],
+                                    "WorldScale": [
+                                        1.0000001192092896,
+                                        0.9999997615814209,
+                                        1.0
+                                    ],
+                                    "Radius": 5.81044864654541,
+                                    "Capsule Length": 33.614295959472659
+                                }
+                            },
+                            "spine_02": {
+                                "Capsule": {
+                                    "Bone Active": true,
+                                    "Bound Type": "Capsule",
+                                    "Bound Axis": "Z",
+                                    "Margin": 2.0,
+                                    "Friction": 0.05000000074505806,
+                                    "Elasticity": 0.5,
+                                    "WorldTranslate": [
+                                        -1.4915508031845093,
+                                        0.7672608494758606,
+                                        113.64749145507813
+                                    ],
+                                    "WorldRotationQ": [
+                                        0.42911431193351748,
+                                        0.5423101186752319,
+                                        0.4756987690925598,
+                                        0.5435727834701538
+                                    ],
+                                    "WorldScale": [
+                                        1.0,
+                                        0.9999998807907105,
+                                        1.0000001192092896
+                                    ],
+                                    "Radius": 11.629992485046387,
+                                    "Capsule Length": 6.390508651733398
+                                }
+                            },
+                            "upperarm_l": {
+                                "Capsule": {
+                                    "Bone Active": true,
+                                    "Bound Type": "Capsule",
+                                    "Bound Axis": "Y",
+                                    "Margin": 0.800000011920929,
+                                    "Friction": 0.05000000074505806,
+                                    "Elasticity": 0.5,
+                                    "WorldTranslate": [
+                                        12.366057395935059,
+                                        9.244338035583496,
+                                        115.22219848632813
+                                    ],
+                                    "WorldRotationQ": [
+                                        0.06812582910060883,
+                                        0.7210436463356018,
+                                        -0.6883843541145325,
+                                        0.039773616939783099
+                                    ],
+                                    "WorldScale": [
+                                        1.0,
+                                        0.9999997615814209,
+                                        0.9999999403953552
+                                    ],
+                                    "Radius": 5.2370147705078129,
+                                    "Capsule Length": 19.87700653076172
+                                }
+                            },
+                            "lowerarm_l": {
+                                "Capsule": {
+                                    "Bone Active": true,
+                                    "Bound Type": "Capsule",
+                                    "Bound Axis": "Y",
+                                    "Margin": 0.800000011920929,
+                                    "Friction": 0.05000000074505806,
+                                    "Elasticity": 0.5,
+                                    "WorldTranslate": [
+                                        17.03719711303711,
+                                        6.961640357971191,
+                                        92.01184844970703
+                                    ],
+                                    "WorldRotationQ": [
+                                        -0.22379256784915925,
+                                        -0.6138712167739868,
+                                        0.7504425048828125,
+                                        0.09957456588745117
+                                    ],
+                                    "WorldScale": [
+                                        1.0000003576278687,
+                                        0.9999997615814209,
+                                        0.9999999403953552
+                                    ],
+                                    "Radius": 4.650128364562988,
+                                    "Capsule Length": 19.08824920654297
+                                }
+                            },
+                            "upperarm_r": {
+                                "Capsule": {
+                                    "Bone Active": true,
+                                    "Bound Type": "Capsule",
+                                    "Bound Axis": "Y",
+                                    "Margin": 0.800000011920929,
+                                    "Friction": 0.05000000074505806,
+                                    "Elasticity": 0.5,
+                                    "WorldTranslate": [
+                                        -13.706154823303223,
+                                        6.326649188995361,
+                                        115.36454772949219
+                                    ],
+                                    "WorldRotationQ": [
+                                        0.038023367524147037,
+                                        -0.7032873630523682,
+                                        0.708967387676239,
+                                        0.03614368289709091
+                                    ],
+                                    "WorldScale": [
+                                        0.9999999403953552,
+                                        0.9999997019767761,
+                                        0.9999998211860657
+                                    ],
+                                    "Radius": 5.236368179321289,
+                                    "Capsule Length": 19.87843894958496
+                                },
+                                "Capsule(0)": {
+                                    "Bone Active": true,
+                                    "Bound Type": "Capsule",
+                                    "Bound Axis": "Y",
+                                    "Margin": 0.800000011920929,
+                                    "Friction": 0.05000000074505806,
+                                    "Elasticity": 0.5,
+                                    "WorldTranslate": [
+                                        -15.243598937988282,
+                                        5.738486289978027,
+                                        112.77481842041016
+                                    ],
+                                    "WorldRotationQ": [
+                                        0.038023367524147037,
+                                        -0.7032873630523682,
+                                        0.708967387676239,
+                                        0.03614368289709091
+                                    ],
+                                    "WorldScale": [
+                                        0.9999999403953552,
+                                        0.9999997019767761,
+                                        0.9999998211860657
+                                    ],
+                                    "Radius": 4.738913536071777,
+                                    "Capsule Length": 22.37859535217285
+                                }
+                            },
+                            "neck_01": {
+                                "Capsule": {
+                                    "Bone Active": true,
+                                    "Bound Type": "Capsule",
+                                    "Bound Axis": "Y",
+                                    "Margin": 0.800000011920929,
+                                    "Friction": 0.05000000074505806,
+                                    "Elasticity": 0.5,
+                                    "WorldTranslate": [
+                                        -0.46208158135414126,
+                                        5.264277458190918,
+                                        136.14932250976563
+                                    ],
+                                    "WorldRotationQ": [
+                                        0.7813481092453003,
+                                        0.014118489809334278,
+                                        -0.000027090247385785916,
+                                        0.6239356994628906
+                                    ],
+                                    "WorldScale": [
+                                        1.000000238418579,
+                                        1.0000001192092896,
+                                        1.000000238418579
+                                    ],
+                                    "Radius": 4.799604892730713,
+                                    "Capsule Length": 0.18861007690429688
+                                },
+                                "Capsule(0)": {
+                                    "Bone Active": true,
+                                    "Bound Type": "Capsule",
+                                    "Bound Axis": "Z",
+                                    "Margin": 0.800000011920929,
+                                    "Friction": 0.05000000074505806,
+                                    "Elasticity": 0.5,
+                                    "WorldTranslate": [
+                                        -0.6665570139884949,
+                                        4.829696178436279,
+                                        124.03208923339844
+                                    ],
+                                    "WorldRotationQ": [
+                                        0.5525157451629639,
+                                        0.4511723816394806,
+                                        0.5524773597717285,
+                                        0.4312058687210083
+                                    ],
+                                    "WorldScale": [
+                                        1.0,
+                                        1.0000001192092896,
+                                        1.0
+                                    ],
+                                    "Radius": 6.659497261047363,
+                                    "Capsule Length": 13.492589950561524
+                                },
+                                "Capsule(1)": {
+                                    "Bone Active": true,
+                                    "Bound Type": "Capsule",
+                                    "Bound Axis": "Y",
+                                    "Margin": 0.800000011920929,
+                                    "Friction": 0.05000000074505806,
+                                    "Elasticity": 0.5,
+                                    "WorldTranslate": [
+                                        -7.682895183563232,
+                                        2.360381603240967,
+                                        120.18603515625
+                                    ],
+                                    "WorldRotationQ": [
+                                        0.25370368361473086,
+                                        0.6666817665100098,
+                                        0.26363298296928408,
+                                        0.6493592858314514
+                                    ],
+                                    "WorldScale": [
+                                        1.0,
+                                        1.0000001192092896,
+                                        1.0000001192092896
+                                    ],
+                                    "Radius": 6.620143890380859,
+                                    "Capsule Length": 3.9281845092773439
+                                },
+                                "Capsule(2)": {
+                                    "Bone Active": true,
+                                    "Bound Type": "Capsule",
+                                    "Bound Axis": "Y",
+                                    "Margin": 0.800000011920929,
+                                    "Friction": 0.05000000074505806,
+                                    "Elasticity": 0.5,
+                                    "WorldTranslate": [
+                                        6.311525821685791,
+                                        2.6687891483306886,
+                                        119.93879699707031
+                                    ],
+                                    "WorldRotationQ": [
+                                        0.25370368361473086,
+                                        0.6666817665100098,
+                                        0.26363298296928408,
+                                        0.6493592858314514
+                                    ],
+                                    "WorldScale": [
+                                        1.0,
+                                        1.0000001192092896,
+                                        1.0000001192092896
+                                    ],
+                                    "Radius": 6.620143890380859,
+                                    "Capsule Length": 3.9281845092773439
+                                }
+                            },
+                            "head": {
+                                "Capsule": {
+                                    "Bone Active": true,
+                                    "Bound Type": "Capsule",
+                                    "Bound Axis": "Y",
+                                    "Margin": 0.800000011920929,
+                                    "Friction": 0.05000000074505806,
+                                    "Elasticity": 0.5,
+                                    "WorldTranslate": [
+                                        -0.015656834468245508,
+                                        1.3184783458709717,
+                                        145.7414093017578
+                                    ],
+                                    "WorldRotationQ": [
+                                        0.7199102640151978,
+                                        0.01756318099796772,
+                                        -0.013891450129449368,
+                                        0.6937057971954346
+                                    ],
+                                    "WorldScale": [
+                                        1.0000003576278687,
+                                        0.9999998807907105,
+                                        0.9999999403953552
+                                    ],
+                                    "Radius": 7.450112342834473,
+                                    "Capsule Length": 8.07003402709961
+                                }
+                            }
+                        }
+                    },
+                    "CC_Game_Tongue": {},
+                    "CC_Game_Body": {},
+                    "Camila_Brow": {},
+                    "Rolled_sleeves_shirt": {},
+                    "Slim_Jeans": {},
+                    "Torus_1": {},
+                    "Canvas_shoes": {},
+                    "CC_Base_Eye": {},
+                    "CC_Base_Teeth": {},
+                    "Shoulder_length_hair": {}
+                },
+                "Nodes": {
+                    "CC_Game_Tongue": {
+                        "Meshes": {
+                            "CC_Game_Tongue": {
+                                "Materials": {
+                                    "Ga_Skin_Body": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Ambient Color": [
+                                            123.00000762939453,
+                                            123.00000762939453,
+                                            123.00000762939453
+                                        ],
+                                        "Specular Color": [
+                                            229.5,
+                                            229.5,
+                                            229.5
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/adria idle 1/adria idle 1/CC_Game_Tongue/Ga_Skin_Body/Ga_Skin_Body_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Base Color": {
+                                                "Texture Path": "Ga_Skin_Body_Diffuse.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/adria idle 1/adria idle 1/CC_Game_Tongue/Ga_Skin_Body/Ga_Skin_Body_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Opacity": {
+                                                "Texture Path": "Ga_Skin_Body_Opacity.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Normal": {
+                                                "Texture Path": "Ga_Skin_Body_Normal.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "AO": {
+                                                "Texture Path": "./textures/adria idle 1/adria idle 1/CC_Game_Tongue/Ga_Skin_Body/Ga_Skin_Body_ao.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "CC_Game_Body": {
+                        "Meshes": {
+                            "CC_Game_Body": {
+                                "Materials": {
+                                    "Ga_Skin_Body": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Ambient Color": [
+                                            123.00000762939453,
+                                            123.00000762939453,
+                                            123.00000762939453
+                                        ],
+                                        "Specular Color": [
+                                            229.5,
+                                            229.5,
+                                            229.5
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/adria idle 1/adria idle 1/CC_Game_Tongue/Ga_Skin_Body/Ga_Skin_Body_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Base Color": {
+                                                "Texture Path": "Ga_Skin_Body_Diffuse.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/adria idle 1/adria idle 1/CC_Game_Tongue/Ga_Skin_Body/Ga_Skin_Body_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Opacity": {
+                                                "Texture Path": "Ga_Skin_Body_Opacity.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Normal": {
+                                                "Texture Path": "Ga_Skin_Body_Normal.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "AO": {
+                                                "Texture Path": "./textures/adria idle 1/adria idle 1/CC_Game_Tongue/Ga_Skin_Body/Ga_Skin_Body_ao.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Camila_Brow": {
+                        "Meshes": {
+                            "Camila_Brow": {
+                                "Materials": {
+                                    "Female_Brow_Transparency": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Node Type": "Brow",
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Ambient Color": [
+                                            150.0,
+                                            150.0,
+                                            150.0
+                                        ],
+                                        "Specular Color": [
+                                            229.5,
+                                            229.5,
+                                            229.5
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/adria idle 1/Camila_Brow/Camila_Brow/Female_Brow_Transparency/Female_Brow_Transparency_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Base Color": {
+                                                "Texture Path": "Female_Brow_Transparency_Diffuse.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Specular": {
+                                                "Texture Path": "Female_Brow_Transparency_Specular.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/adria idle 1/Camila_Brow/Camila_Brow/Female_Brow_Transparency/Female_Brow_Transparency_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Opacity": {
+                                                "Texture Path": "Female_Brow_Transparency_Opacity.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        },
+                                        "Custom Shader": {
+                                            "Shader Name": "RLHair",
+                                            "Image": {
+                                                "Hair Root Map": {
+                                                    "Texture Path": "./textures/adria idle 1/Camila_Brow/Camila_Brow/Female_Brow_Transparency/Female_Brow_Transparency_Hair Root Map.jpg"
+                                                },
+                                                "Hair ID Map": {
+                                                    "Texture Path": "./textures/adria idle 1/Camila_Brow/Camila_Brow/Female_Brow_Transparency/Female_Brow_Transparency_Hair ID Map.png"
+                                                }
+                                            },
+                                            "Variable": {
+                                                "TangentVectorColor": [
+                                                    0.0,
+                                                    255.0,
+                                                    0.0
+                                                ],
+                                                "TangentMapFlipGreen": 1.0,
+                                                "AO Map Occlude All Lighting": 0.0,
+                                                "Diffuse Strength": 1.0,
+                                                "Hair Roughness Map Strength": 0.4970000088214874,
+                                                "Hair Specular Map Strength": 0.15000000596046449,
+                                                "Specular Strength": 1.0,
+                                                "Secondary Specular Strength": 1.0,
+                                                "Transmission Strength": 1.0,
+                                                "No Back Face Triangles": 0.5,
+                                                "VertexGrayToColor": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "VertexColorStrength": 0.5,
+                                                "ActiveChangeHairColor": 0.0,
+                                                "BaseColorMapStrength": 1.0,
+                                                "padding c4z": 0.0,
+                                                "paddingHasMips": 0.0,
+                                                "RootColor": [
+                                                    32.0,
+                                                    18.0,
+                                                    10.0
+                                                ],
+                                                "padding c5w": 0.0,
+                                                "TipColor": [
+                                                    3.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "RootTipBlendMode": 0.0,
+                                                "UseRootTipColor": 1.0,
+                                                "RootColorStrength": 1.0,
+                                                "TipColorStrength": 1.0,
+                                                "InvertRootTip": 0.0,
+                                                "_1st Dye Color": [
+                                                    117.0,
+                                                    102.0,
+                                                    87.0
+                                                ],
+                                                "_1st Dye Strength": 0.6000000238418579,
+                                                "_1st Dye Distribution from Grayscale": [
+                                                    109.44599914550781,
+                                                    135.0989990234375,
+                                                    193.2135009765625
+                                                ],
+                                                "_1st BlendMode": 0.0,
+                                                "Mask 1st Dye by RootMap": 0.0,
+                                                "Invert 1st Dye RootMap Mask": 0.0,
+                                                "_1st Dye add Specular": 0.10000000149011612,
+                                                "padding c10w": 0.0,
+                                                "_2nd Dye Color": [
+                                                    28.0,
+                                                    13.0,
+                                                    4.0
+                                                ],
+                                                "_2nd Dye Strength": 0.9559999704360962,
+                                                "_2nd Dye Distribution from Grayscale": [
+                                                    130.89149475097657,
+                                                    172.2779998779297,
+                                                    220.95750427246095
+                                                ],
+                                                "_2nd BlendMode": 0.0,
+                                                "Mask 2nd Dye by RootMap": 0.0,
+                                                "Invert 2nd Dye RootMap Mask": 0.0,
+                                                "_2nd Dye add Specular": 0.0,
+                                                "padding c13w": 0.0,
+                                                "BlackColor Reflection Offset X": 0.0,
+                                                "BlackColor Reflection Offset Y": 0.0,
+                                                "BlackColor Reflection Offset Z": 0.0,
+                                                "padding c14w": 0.0,
+                                                "WhiteColor Reflection Offset X": 0.0,
+                                                "WhiteColor Reflection Offset Y": 0.0,
+                                                "WhiteColor Reflection Offset Z": 0.0,
+                                                "padding c15w": 0.0
+                                            }
+                                        }
+                                    },
+                                    "Female_Brow_Base_Transparency": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Node Type": "Brow",
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Ambient Color": [
+                                            150.0,
+                                            150.0,
+                                            150.0
+                                        ],
+                                        "Specular Color": [
+                                            229.5,
+                                            229.5,
+                                            229.5
+                                        ],
+                                        "Opacity": 0.8999999761581421,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/adria idle 1/Camila_Brow/Camila_Brow/Female_Brow_Base_Transparency/Female_Brow_Base_Transparency_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Base Color": {
+                                                "Texture Path": "Female_Brow_Base_Transparency_Diffuse.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/adria idle 1/Camila_Brow/Camila_Brow/Female_Brow_Base_Transparency/Female_Brow_Base_Transparency_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Opacity": {
+                                                "Texture Path": "Female_Brow_Base_Transparency_Opacity.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Rolled_sleeves_shirt": {
+                        "Meshes": {
+                            "Rolled_sleeves_shirt": {
+                                "Materials": {
+                                    "Rolled_sleeves_shirt": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Ambient Color": [
+                                            150.0,
+                                            150.0,
+                                            150.0
+                                        ],
+                                        "Specular Color": [
+                                            229.5,
+                                            229.5,
+                                            229.5
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Base Color": {
+                                                "Texture Path": "Rolled_sleeves_shirt_Diffuse.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/adria idle 1/Rolled_sleeves_shirt/Rolled_sleeves_shirt/Rolled_sleeves_shirt/Rolled_sleeves_shirt_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Normal": {
+                                                "Texture Path": "Rolled_sleeves_shirt_Normal.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "AO": {
+                                                "Texture Path": "./textures/adria idle 1/Rolled_sleeves_shirt/Rolled_sleeves_shirt/Rolled_sleeves_shirt/Rolled_sleeves_shirt_ao.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Slim_Jeans": {
+                        "Meshes": {
+                            "Slim_Jeans": {
+                                "Materials": {
+                                    "Slim_Jeans": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Ambient Color": [
+                                            150.0,
+                                            150.0,
+                                            150.0
+                                        ],
+                                        "Specular Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/adria idle 1/Slim_Jeans/Slim_Jeans/Slim_Jeans/Slim_Jeans_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Base Color": {
+                                                "Texture Path": "Slim_Jeans_Diffuse.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Specular": {
+                                                "Texture Path": "Slim_Jeans_Specular.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/adria idle 1/Slim_Jeans/Slim_Jeans/Slim_Jeans/Slim_Jeans_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Glow": {
+                                                "Texture Path": "./textures/adria idle 1/Slim_Jeans/Slim_Jeans/Slim_Jeans/Slim_Jeans_Glow.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Normal": {
+                                                "Texture Path": "Slim_Jeans_Normal.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Reflection": {
+                                                "Texture Path": "Slim_Jeans_Reflection.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "AO": {
+                                                "Texture Path": "./textures/adria idle 1/Slim_Jeans/Slim_Jeans/Slim_Jeans/Slim_Jeans_ao.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Torus_1": {
+                        "Meshes": {
+                            "Torus_1": {
+                                "Materials": {
+                                    "_": {
+                                        "Textures": {},
+                                        "MultiUV Index": 0,
+                                        "Two Side": false,
+                                        "Diffuse Color": [
+                                            19.0,
+                                            19.0,
+                                            19.0
+                                        ],
+                                        "Ambient Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Specular Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Specular": 1.0,
+                                        "Glossiness": 1.0,
+                                        "Glossiness": 1.0,
+                                        "MultiUV Index": 0,
+                                        "Two Side": false,
+                                        "Diffuse Color": [
+                                            60.000003814697269,
+                                            60.000003814697269,
+                                            60.000003814697269
+                                        ],
+                                        "Ambient Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Specular Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Specular": 1.0,
+                                        "Material Type": "Tra",
+                                        "MultiUV Index": 0,
+                                        "Two Side": false,
+                                        "Diffuse Color": [
+                                            57.000003814697269,
+                                            57.000003814697269,
+                                            57.000003814697269
+                                        ],
+                                        "Ambient Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Specular Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Specular": 1.0,
+                                        "Glossiness": 1.0
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Canvas_shoes": {
+                        "Meshes": {
+                            "Canvas_shoes": {
+                                "Materials": {
+                                    "Canvas_shoes": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Ambient Color": [
+                                            127.5,
+                                            127.5,
+                                            127.5
+                                        ],
+                                        "Specular Color": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/adria idle 1/Canvas_shoes/Canvas_shoes/Canvas_shoes/Canvas_shoes_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Base Color": {
+                                                "Texture Path": "Canvas_shoes_Diffuse.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/adria idle 1/Canvas_shoes/Canvas_shoes/Canvas_shoes/Canvas_shoes_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Normal": {
+                                                "Texture Path": "Canvas_shoes_Normal.jpg",
+                                                "Strength": 79.99999237060547,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "AO": {
+                                                "Texture Path": "./textures/adria idle 1/Canvas_shoes/Canvas_shoes/Canvas_shoes/Canvas_shoes_ao.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "CC_Base_Eye": {
+                        "Meshes": {
+                            "CC_Base_Eye": {
+                                "Materials": {
+                                    "Std_Eye_R": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Ambient Color": [
+                                            50.000003814697269,
+                                            50.000003814697269,
+                                            50.000003814697269
+                                        ],
+                                        "Specular Color": [
+                                            229.00001525878907,
+                                            229.00001525878907,
+                                            229.00001525878907
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Eye_R/Std_Eye_R_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Base Color": {
+                                                "Texture Path": "Std_Eye_R_Diffuse.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Eye_R/Std_Eye_R_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Normal": {
+                                                "Texture Path": "Std_Eye_R_Normal.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "Std_Cornea_R": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Ambient Color": [
+                                            50.000003814697269,
+                                            50.000003814697269,
+                                            50.000003814697269
+                                        ],
+                                        "Specular Color": [
+                                            229.00001525878907,
+                                            229.00001525878907,
+                                            229.00001525878907
+                                        ],
+                                        "Opacity": 0.800000011920929,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Base Color": {
+                                                "Texture Path": "Std_Cornea_R_Diffuse.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "AO": {
+                                                "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_ao.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        },
+                                        "Custom Shader": {
+                                            "Shader Name": "RLEye",
+                                            "Image": {
+                                                "Iris Normal": {
+                                                    "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_IrisN.png"
+                                                },
+                                                "Sclera Normal": {
+                                                    "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_ScleraN.png"
+                                                },
+                                                "EyeBlendMap2": {
+                                                    "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_BCBMap.jpg"
+                                                },
+                                                "Inner Iris Mask": {
+                                                    "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_IrisMask.png"
+                                                },
+                                                "Sclera": {
+                                                    "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_Sclera.png"
+                                                }
+                                            },
+                                            "Variable": {
+                                                "BlendMap2 Strength": 0.0,
+                                                "Shadow Radius": 0.30000001192092898,
+                                                "Shadow Hardness": 0.5,
+                                                "Specular Scale": 0.800000011920929,
+                                                "Is Left Eye": 0.0,
+                                                "Eye Corner Darkness Color": [
+                                                    255.0,
+                                                    187.9860076904297,
+                                                    178.9998016357422
+                                                ],
+                                                "Iris Depth Scale": 0.8999999761581421,
+                                                "_Iris Roughness": 0.0,
+                                                "Iris Color Brightness": 1.100000023841858,
+                                                "Pupil Scale": 0.9490000009536743,
+                                                "_IoR": 1.399999976158142,
+                                                "Iris Cloudy Color": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Iris Inner Color": [
+                                                    255.0,
+                                                    222.99749755859376,
+                                                    125.00100708007813
+                                                ],
+                                                "Iris Inner Scale": 0.0,
+                                                "Iris UV Radius": 0.15000000596046449,
+                                                "Iris Color": [
+                                                    255.0,
+                                                    255.0,
+                                                    255.0
+                                                ],
+                                                "Limbus UV Width Color": 0.03999999910593033,
+                                                "Limbus Dark Scale": 6.5,
+                                                "ScleraBrightness": 0.75,
+                                                "Sclera Roughness": 0.20000000298023225,
+                                                "Sclera Flatten Normal": 0.8999999761581421,
+                                                "Sclera Normal UV Scale": 0.5,
+                                                "Sclera UV Radius": 0.9300000071525574
+                                            }
+                                        },
+                                        "Subsurface Scatter": {
+                                            "Falloff": [
+                                                255.0,
+                                                255.0,
+                                                255.0
+                                            ],
+                                            "Radius": 5.0,
+                                            "Distribution": 0.9300000071525574,
+                                            "IOR": 1.5499999523162842,
+                                            "DecayScale": 0.15000000596046449,
+                                            "Lerp": 0.8500000238418579
+                                        }
+                                    },
+                                    "Std_Eye_L": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Ambient Color": [
+                                            50.000003814697269,
+                                            50.000003814697269,
+                                            50.000003814697269
+                                        ],
+                                        "Specular Color": [
+                                            229.00001525878907,
+                                            229.00001525878907,
+                                            229.00001525878907
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Eye_L/Std_Eye_L_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Base Color": {
+                                                "Texture Path": "Std_Eye_L_Diffuse.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Eye_L/Std_Eye_L_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Normal": {
+                                                "Texture Path": "Std_Eye_L_Normal.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "Std_Cornea_L": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Ambient Color": [
+                                            50.000003814697269,
+                                            50.000003814697269,
+                                            50.000003814697269
+                                        ],
+                                        "Specular Color": [
+                                            229.00001525878907,
+                                            229.00001525878907,
+                                            229.00001525878907
+                                        ],
+                                        "Opacity": 0.800000011920929,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Base Color": {
+                                                "Texture Path": "Std_Cornea_L_Diffuse.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "AO": {
+                                                "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_ao.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        },
+                                        "Custom Shader": {
+                                            "Shader Name": "RLEye",
+                                            "Image": {
+                                                "Iris Normal": {
+                                                    "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_IrisN.png"
+                                                },
+                                                "Sclera Normal": {
+                                                    "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_ScleraN.png"
+                                                },
+                                                "EyeBlendMap2": {
+                                                    "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_BCBMap.jpg"
+                                                },
+                                                "Inner Iris Mask": {
+                                                    "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_IrisMask.png"
+                                                },
+                                                "Sclera": {
+                                                    "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_Sclera.png"
+                                                }
+                                            },
+                                            "Variable": {
+                                                "BlendMap2 Strength": 0.0,
+                                                "Shadow Radius": 0.30000001192092898,
+                                                "Shadow Hardness": 0.5,
+                                                "Specular Scale": 0.800000011920929,
+                                                "Is Left Eye": 1.0,
+                                                "Eye Corner Darkness Color": [
+                                                    255.0,
+                                                    187.9860076904297,
+                                                    178.9998016357422
+                                                ],
+                                                "Iris Depth Scale": 0.8999999761581421,
+                                                "_Iris Roughness": 0.0,
+                                                "Iris Color Brightness": 1.100000023841858,
+                                                "Pupil Scale": 0.9490000009536743,
+                                                "_IoR": 1.399999976158142,
+                                                "Iris Cloudy Color": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Iris Inner Color": [
+                                                    255.0,
+                                                    222.99749755859376,
+                                                    125.00100708007813
+                                                ],
+                                                "Iris Inner Scale": 0.0,
+                                                "Iris UV Radius": 0.15000000596046449,
+                                                "Iris Color": [
+                                                    255.0,
+                                                    255.0,
+                                                    255.0
+                                                ],
+                                                "Limbus UV Width Color": 0.03999999910593033,
+                                                "Limbus Dark Scale": 6.5,
+                                                "ScleraBrightness": 0.75,
+                                                "Sclera Roughness": 0.20000000298023225,
+                                                "Sclera Flatten Normal": 0.8999999761581421,
+                                                "Sclera Normal UV Scale": 0.5,
+                                                "Sclera UV Radius": 0.9300000071525574
+                                            }
+                                        },
+                                        "Subsurface Scatter": {
+                                            "Falloff": [
+                                                255.0,
+                                                255.0,
+                                                255.0
+                                            ],
+                                            "Radius": 5.0,
+                                            "Distribution": 0.9300000071525574,
+                                            "IOR": 1.5499999523162842,
+                                            "DecayScale": 0.15000000596046449,
+                                            "Lerp": 0.8500000238418579
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "CC_Base_Teeth": {
+                        "Meshes": {
+                            "CC_Base_Teeth": {
+                                "Materials": {
+                                    "Std_Upper_Teeth": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Ambient Color": [
+                                            125.00000762939453,
+                                            125.00000762939453,
+                                            125.00000762939453
+                                        ],
+                                        "Specular Color": [
+                                            229.5,
+                                            229.5,
+                                            229.5
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/adria idle 1/CC_Base_Teeth/CC_Base_Teeth/Std_Upper_Teeth/Std_Upper_Teeth_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Base Color": {
+                                                "Texture Path": "Std_Upper_Teeth_Diffuse.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/adria idle 1/CC_Base_Teeth/CC_Base_Teeth/Std_Upper_Teeth/Std_Upper_Teeth_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Normal": {
+                                                "Texture Path": "Std_Upper_Teeth_Normal.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "AO": {
+                                                "Texture Path": "./textures/adria idle 1/CC_Base_Teeth/CC_Base_Teeth/Std_Upper_Teeth/Std_Upper_Teeth_ao.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        },
+                                        "Custom Shader": {
+                                            "Shader Name": "RLTeethGum",
+                                            "Image": {
+                                                "MicroNormal": {
+                                                    "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_ScleraN.png"
+                                                },
+                                                "Gradient AO": {
+                                                    "Texture Path": "./textures/adria idle 1/CC_Base_Teeth/CC_Base_Teeth/Std_Upper_Teeth/Std_Upper_Teeth_GradAO.jpg"
+                                                },
+                                                "Gums Mask": {
+                                                    "Texture Path": "./textures/adria idle 1/CC_Base_Teeth/CC_Base_Teeth/Std_Upper_Teeth/Std_Upper_Teeth_GumsMask.jpg"
+                                                }
+                                            },
+                                            "Variable": {
+                                                "Flip MicroNormal Y": 1.0,
+                                                "Teeth MicroNormal Tiling": 10.0,
+                                                "Teeth MicroNormal Strength": 0.30000001192092898,
+                                                "Gums MicroNormal Tiling": 10.0,
+                                                "Gums MicroNormal Strength": 0.30000001192092898,
+                                                "Teeth Edge Color": [
+                                                    79.99349975585938,
+                                                    29.988000869750978,
+                                                    19.992000579833986
+                                                ],
+                                                "Is Upper Teeth": 1.0,
+                                                "Teeth Brightness": 0.6000000238418579,
+                                                "Teeth Desaturation": 0.0,
+                                                "Gums Brightness": 0.6959999799728394,
+                                                "Gums Desaturation": 0.3869999945163727,
+                                                "Front Roughness": 0.4000000059604645,
+                                                "Front Specular": 0.10000000149011612,
+                                                "Front AO": 1.0,
+                                                "Back AO": 0.14900000393390656,
+                                                "Back Roughness": 0.0,
+                                                "Back Specular": 0.0,
+                                                "Gums Scatter": 1.0,
+                                                "Teeth Scatter": 0.699999988079071
+                                            }
+                                        },
+                                        "Subsurface Scatter": {
+                                            "Falloff": [
+                                                166.0,
+                                                123.0,
+                                                101.0
+                                            ],
+                                            "Radius": 1.5,
+                                            "Distribution": 0.9300000071525574,
+                                            "IOR": 1.5499999523162842,
+                                            "DecayScale": 0.15000000596046449,
+                                            "Lerp": 0.8999999761581421
+                                        }
+                                    },
+                                    "Std_Lower_Teeth": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Ambient Color": [
+                                            125.00000762939453,
+                                            125.00000762939453,
+                                            125.00000762939453
+                                        ],
+                                        "Specular Color": [
+                                            229.5,
+                                            229.5,
+                                            229.5
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/adria idle 1/CC_Base_Teeth/CC_Base_Teeth/Std_Lower_Teeth/Std_Lower_Teeth_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Base Color": {
+                                                "Texture Path": "Std_Lower_Teeth_Diffuse.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/adria idle 1/CC_Base_Teeth/CC_Base_Teeth/Std_Lower_Teeth/Std_Lower_Teeth_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Normal": {
+                                                "Texture Path": "Std_Lower_Teeth_Normal.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "AO": {
+                                                "Texture Path": "./textures/adria idle 1/CC_Base_Teeth/CC_Base_Teeth/Std_Lower_Teeth/Std_Lower_Teeth_ao.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        },
+                                        "Custom Shader": {
+                                            "Shader Name": "RLTeethGum",
+                                            "Image": {
+                                                "MicroNormal": {
+                                                    "Texture Path": "./textures/adria idle 1/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_ScleraN.png"
+                                                },
+                                                "Gradient AO": {
+                                                    "Texture Path": "./textures/adria idle 1/CC_Base_Teeth/CC_Base_Teeth/Std_Upper_Teeth/Std_Upper_Teeth_GradAO.jpg"
+                                                },
+                                                "Gums Mask": {
+                                                    "Texture Path": "./textures/adria idle 1/CC_Base_Teeth/CC_Base_Teeth/Std_Upper_Teeth/Std_Upper_Teeth_GumsMask.jpg"
+                                                }
+                                            },
+                                            "Variable": {
+                                                "Flip MicroNormal Y": 1.0,
+                                                "Teeth MicroNormal Tiling": 10.0,
+                                                "Teeth MicroNormal Strength": 0.30000001192092898,
+                                                "Gums MicroNormal Tiling": 10.0,
+                                                "Gums MicroNormal Strength": 0.30000001192092898,
+                                                "Teeth Edge Color": [
+                                                    79.99349975585938,
+                                                    29.988000869750978,
+                                                    19.992000579833986
+                                                ],
+                                                "Is Upper Teeth": 0.0,
+                                                "Teeth Brightness": 0.6000000238418579,
+                                                "Teeth Desaturation": 0.0,
+                                                "Gums Brightness": 0.6959999799728394,
+                                                "Gums Desaturation": 0.3869999945163727,
+                                                "Front Roughness": 0.4000000059604645,
+                                                "Front Specular": 0.10000000149011612,
+                                                "Front AO": 1.0,
+                                                "Back AO": 0.33500000834465029,
+                                                "Back Roughness": 0.0,
+                                                "Back Specular": 0.0,
+                                                "Gums Scatter": 1.0,
+                                                "Teeth Scatter": 0.699999988079071
+                                            }
+                                        },
+                                        "Subsurface Scatter": {
+                                            "Falloff": [
+                                                165.0,
+                                                121.0,
+                                                101.0
+                                            ],
+                                            "Radius": 1.5,
+                                            "Distribution": 0.9900000095367432,
+                                            "IOR": 1.0,
+                                            "DecayScale": 0.9300000071525574,
+                                            "Lerp": 0.8999999761581421
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Shoulder_length_hair": {
+                        "Meshes": {
+                            "Shoulder_length_hair": {
+                                "Materials": {
+                                    "Hair_Transparency": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Node Type": "Hair",
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Ambient Color": [
+                                            125.00000762939453,
+                                            125.00000762939453,
+                                            125.00000762939453
+                                        ],
+                                        "Specular Color": [
+                                            229.5,
+                                            229.5,
+                                            229.5
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/adria idle 1/Shoulder_length_hair/Shoulder_length_hair/Hair_Transparency/Hair_Transparency_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Base Color": {
+                                                "Texture Path": "Hair_Transparency_Diffuse.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Specular": {
+                                                "Texture Path": "Hair_Transparency_Specular.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/adria idle 1/Shoulder_length_hair/Shoulder_length_hair/Hair_Transparency/Hair_Transparency_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Opacity": {
+                                                "Texture Path": "Hair_Transparency_Opacity.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "AO": {
+                                                "Texture Path": "./textures/adria idle 1/Shoulder_length_hair/Shoulder_length_hair/Hair_Transparency/Hair_Transparency_ao.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        },
+                                        "Custom Shader": {
+                                            "Shader Name": "RLHair",
+                                            "Image": {
+                                                "Hair Root Map": {
+                                                    "Texture Path": "./textures/adria idle 1/Shoulder_length_hair/Shoulder_length_hair/Hair_Transparency/Hair_Transparency_Hair Root Map.jpg"
+                                                },
+                                                "Hair ID Map": {
+                                                    "Texture Path": "./textures/adria idle 1/Shoulder_length_hair/Shoulder_length_hair/Hair_Transparency/Hair_Transparency_Hair ID Map.png"
+                                                },
+                                                "Hair Flow Map": {
+                                                    "Texture Path": "./textures/adria idle 1/Shoulder_length_hair/Shoulder_length_hair/Hair_Transparency/Hair_Transparency_Hair Flow Map.png"
+                                                }
+                                            },
+                                            "Variable": {
+                                                "TangentVectorColor": [
+                                                    255.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "TangentMapFlipGreen": 1.0,
+                                                "AO Map Occlude All Lighting": 1.0,
+                                                "Diffuse Strength": 0.32100000977516177,
+                                                "Hair Roughness Map Strength": 0.5139999985694885,
+                                                "Hair Specular Map Strength": 0.41499999165534975,
+                                                "Specular Strength": 0.5600000023841858,
+                                                "Secondary Specular Strength": 0.9909999966621399,
+                                                "Transmission Strength": 0.20000000298023225,
+                                                "No Back Face Triangles": 1.0,
+                                                "VertexGrayToColor": [
+                                                    7.0,
+                                                    2.0,
+                                                    0.0
+                                                ],
+                                                "VertexColorStrength": 0.1770000010728836,
+                                                "ActiveChangeHairColor": 0.0,
+                                                "BaseColorMapStrength": 1.0,
+                                                "padding c4z": 0.0,
+                                                "paddingHasMips": 0.0,
+                                                "RootColor": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "padding c5w": 0.0,
+                                                "TipColor": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "RootTipBlendMode": 0.0,
+                                                "UseRootTipColor": 1.0,
+                                                "RootColorStrength": 1.0,
+                                                "TipColorStrength": 1.0,
+                                                "InvertRootTip": 0.0,
+                                                "_1st Dye Color": [
+                                                    0.0,
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "_1st Dye Strength": 0.7379999756813049,
+                                                "_1st Dye Distribution from Grayscale": [
+                                                    153.66299438476563,
+                                                    213.25650024414063,
+                                                    255.0
+                                                ],
+                                                "_1st BlendMode": 0.0,
+                                                "Mask 1st Dye by RootMap": 0.0,
+                                                "Invert 1st Dye RootMap Mask": 1.0,
+                                                "_1st Dye add Specular": 0.0,
+                                                "padding c10w": 0.0,
+                                                "_2nd Dye Color": [
+                                                    2.0,
+                                                    1.0,
+                                                    0.0
+                                                ],
+                                                "_2nd Dye Strength": 0.7250000238418579,
+                                                "_2nd Dye Distribution from Grayscale": [
+                                                    63.41849899291992,
+                                                    131.37600708007813,
+                                                    165.4185028076172
+                                                ],
+                                                "_2nd BlendMode": 0.0,
+                                                "Mask 2nd Dye by RootMap": 0.0,
+                                                "Invert 2nd Dye RootMap Mask": 1.0,
+                                                "_2nd Dye add Specular": 0.0,
+                                                "padding c13w": 0.0,
+                                                "BlackColor Reflection Offset X": 0.0,
+                                                "BlackColor Reflection Offset Y": 0.0,
+                                                "BlackColor Reflection Offset Z": 0.0,
+                                                "padding c14w": 0.0,
+                                                "WhiteColor Reflection Offset X": 0.0,
+                                                "WhiteColor Reflection Offset Y": 0.0,
+                                                "WhiteColor Reflection Offset Z": 0.0,
+                                                "padding c15w": 0.0
+                                            }
+                                        }
+                                    },
+                                    "Scalp_Transparency": {
+                                        "Material Type": "Pbr",
+                                        "MultiUV Index": 0,
+                                        "Node Type": "Hair",
+                                        "Two Side": true,
+                                        "Diffuse Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Ambient Color": [
+                                            125.00000762939453,
+                                            125.00000762939453,
+                                            125.00000762939453
+                                        ],
+                                        "Specular Color": [
+                                            229.5,
+                                            229.5,
+                                            229.5
+                                        ],
+                                        "Opacity": 1.0,
+                                        "Self Illumination": 0.0,
+                                        "Textures": {
+                                            "Metallic": {
+                                                "Texture Path": "./textures/adria idle 1/Shoulder_length_hair/Shoulder_length_hair/Scalp_Transparency/Scalp_Transparency_metallic.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Base Color": {
+                                                "Texture Path": "Scalp_Transparency_Diffuse.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Roughness": {
+                                                "Texture Path": "./textures/adria idle 1/Shoulder_length_hair/Shoulder_length_hair/Scalp_Transparency/Scalp_Transparency_roughness.png",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            },
+                                            "Opacity": {
+                                                "Texture Path": "Scalp_Transparency_Opacity.jpg",
+                                                "Strength": 100.0,
+                                                "Offset": [
+                                                    0.0,
+                                                    0.0
+                                                ],
+                                                "Tiling": [
+                                                    1.0,
+                                                    1.0
+                                                ]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
